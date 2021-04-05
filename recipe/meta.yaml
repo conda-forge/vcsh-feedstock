@@ -1,5 +1,5 @@
 {% set build = 0 %}
-{% set version = "1.20190621" %}
+{% set version = "1.20190621-1" %}
 
 package:
   name: vcsh
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/RichiH/vcsh/archive/v{{ version }}.tar.gz
-  sha256: e7c108f98da16e5ec5ae41692552aff31ee02d7d8849e6bf6efdfa68ed697204
+  sha256: d745ae6267347a3f39a9540bde7fc08d6fe38f477932c3e87a264e60cf99f784
   patches:
     - Makefile.patch
 
