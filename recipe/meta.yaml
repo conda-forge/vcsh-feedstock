@@ -30,7 +30,7 @@ test:
 
 about:
   home: https://github.com/RichiH/vcsh
-  license: GPL-2.0
+  license: GPL-2.0-or-later
   license_file: LICENSE
   summary: config manager based on Git
 
