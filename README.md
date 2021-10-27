@@ -3,7 +3,7 @@ About vcsh
 
 Home: https://github.com/RichiH/vcsh
 
-Package license: GPL-2.0
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/vcsh-feedstock/blob/master/LICENSE.txt)
 
